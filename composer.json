@@ -3,16 +3,7 @@
   "description": "SaltLite Framework",
   "type": "library",
   "license": "MIT",
-  "authors": [
-    {
-      "name": "Tim Lytle",
-      "email": "tim@phoneburner.com"
-    },
-    {
-      "name": "Andy Snell",
-      "email": "andy@phoneburner.com"
-    }
-  ],
+  "authors": [],
   "config": {
     "sort-packages": true,
     "allow-plugins": {
